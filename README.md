@@ -1,4 +1,4 @@
-# g-app
+# Vue js CRUD Application and Laravel Web API with Pagination and search functionality
 
 ## Project setup
 ```
